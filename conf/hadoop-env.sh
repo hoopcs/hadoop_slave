@@ -7,6 +7,7 @@
 
 # The java implementation to use.  Required.
 # export JAVA_HOME=/usr/lib/j2sdk1.5-sun
+export JAVA_HOME=/software/java/jdk1.6.0_37
 
 # Extra Java CLASSPATH elements.  Optional.
 # export HADOOP_CLASSPATH=

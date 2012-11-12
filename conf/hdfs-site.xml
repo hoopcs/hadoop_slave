@@ -5,4 +5,9 @@
 
 <configuration>
 
+    <property>
+        <name>dfs.data.dir</name>
+        <value>/home/hadoop/core/node_data</value>
+    </property>
+
 </configuration>
